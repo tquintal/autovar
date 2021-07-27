@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="Autovar.AnuncioTemplate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Autovar"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" Height="256" Width="200">
+
+    <Grid MouseUp="Grid_MouseUp">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="56*"/>
+            <ColumnDefinition Width="23*"/>
+            <ColumnDefinition Width="121*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="160"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <materialDesign:ColorZone VerticalAlignment="Stretch" Background="#FFA0A0A0" Grid.ColumnSpan="3">
+            <Image Source="{Binding MediaURL}" Stretch="UniformToFill"/>
+        </materialDesign:ColorZone>
+
+        <!--<Image VerticalAlignment="Stretch" Grid.ColumnSpan="3" Source="{Binding Path=MediaURL}"></Image>-->
+
+        <StackPanel Name="List" Grid.Row="1" Background="White" Grid.ColumnSpan="3">
+
+            <TextBlock Foreground="Black" Text="{Binding Path=DescricaoMarca}" Margin="10 10 0 0"></TextBlock>
+            <TextBlock Foreground="Black" Text="{Binding Path=DescricaoModelo}" Margin="10 0 0 0"></TextBlock>
+            <TextBlock Foreground="Black" Margin="10 0 0 0">
+                   <Run Text="{Binding KMS}"/>
+                   <Run Text=" Kms"/>
+            </TextBlock>
+            <TextBlock Foreground="Black" Margin="10 0 0 0">
+                   <Run Text="{Binding Preco}"/>
+                   <Run Text=" €"/>
+            </TextBlock>
+
+        </StackPanel>       
+
+    </Grid>
+
+</UserControl>

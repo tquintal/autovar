@@ -1,0 +1,13 @@
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\CamadaDados\bin\Debug\CamadaDados.dll.config
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\CamadaDados\bin\Debug\CamadaDados.dll
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\CamadaDados\bin\Debug\CamadaDados.pdb
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\CamadaDados\obj\Debug\CamadaDados.dll
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Tom\Desktop\autovar\CamadaDados\bin\Debug\CamadaDados.dll.config
+C:\Users\Tom\Desktop\autovar\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Tom\Desktop\autovar\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Tom\Desktop\autovar\CamadaDados\obj\Debug\CamadaDados.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\autovar\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\autovar\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Tom\Desktop\autovar\CamadaDados\obj\Debug\CamadaDados.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Autovar.Interface.JanelaAnuncioDetalhes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autovar.Interface"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:controls="clr-namespace:Autovar.Interface"
+        mc:Ignorable="d" Height="720" Width="1280"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" Foreground="White" ResizeMode="NoResize"
+        Title="DetalhesAnuncio">
+
+    <Grid>
+
+        <controls:UCListaManutencao/>
+
+        <Button Content="{materialDesign:PackIcon Close}" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonFechar_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="25"/>
+
+    </Grid>
+
+</Window>

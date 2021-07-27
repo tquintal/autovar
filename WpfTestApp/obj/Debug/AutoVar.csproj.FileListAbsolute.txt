@@ -1,0 +1,134 @@
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\WpfTestApp.exe.config
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\WpfTestApp.exe
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\WpfTestApp.pdb
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\AutoVar.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\UserControlHome.g.cs
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\UserControlPerfil.g.cs
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\UserControlPesquisa.g.cs
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\WpfTestApp_MarkupCompile.cache
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\WpfTestApp_MarkupCompile.lref
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\App.baml
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\UserControlHome.baml
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\UserControlPerfil.baml
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\UserControlPesquisa.baml
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\WpfTestApp.g.resources
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\WpfTestApp.Properties.Resources.resources
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\AutoVar.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\AutoVar.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\AutoVar.csproj.CopyComplete
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\WpfTestApp.exe
+C:\Users\Tom\Desktop\WpfTestApp - Cópia\WpfTestApp\obj\Debug\WpfTestApp.pdb
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\App.baml
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\AutoVar.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\AutoVar.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Autovar\WpfTestApp\obj\Debug\AutoVar.csproj.CopyComplete
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\Autovar.exe.config
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\Autovar.exe
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\Autovar.pdb
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\CamadaNegocio.dll
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\MaterialDesignColors.dll
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\CamadaDados.dll
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\CamadaNegocio.pdb
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\MaterialDesignColors.pdb
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\CamadaDados.pdb
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\bin\Debug\CamadaDados.dll.config
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.csprojAssemblyReference.cache
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\AnuncioDetalhes.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\AnuncioTemplate.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\JanelaAnuncioDetalhes.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UCListaManutencao.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlManutencao.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\WindowSobre.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\MainWindow.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\TesteManutencao.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlDefinicoes.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlPaginaInicial.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlPerfil.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlPesquisa.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Style\Styles.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\App.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar_MarkupCompile.cache
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar_MarkupCompile.lref
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\App.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Dicionario\Dicionario.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\AnuncioDetalhes.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\AnuncioTemplate.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\JanelaAnuncioDetalhes.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UCListaManutencao.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlManutencao.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\WindowSobre.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\MainWindow.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\TesteManutencao.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlDefinicoes.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlPaginaInicial.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlPerfil.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Interface\UserControlPesquisa.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Style\Styles.baml
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.g.resources
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.Properties.Resources.resources
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.csproj.GenerateResource.cache
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.csproj.CoreCompileInputs.cache
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.csproj.CopyComplete
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.exe
+D:\Clevo\Downloads\autovar_v2_update_08_07_2\autovar_v2\WpfTestApp\obj\Debug\Autovar.pdb
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\Autovar.exe.config
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\Autovar.exe
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\Autovar.pdb
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\CamadaNegocio.dll
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\CamadaDados.dll
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\CamadaNegocio.pdb
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\CamadaDados.pdb
+C:\Users\Tom\Desktop\autovar\WpfTestApp\bin\Debug\CamadaDados.dll.config
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar.csproj.AssemblyReference.cache
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\AnuncioDetalhes.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\AnuncioTemplate.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\JanelaAnuncioDetalhes.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UCListaManutencao.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlManutencao.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\WindowSobre.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\TesteManutencao.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlDefinicoes.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlPaginaInicial.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlPerfil.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlPesquisa.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Style\Styles.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar_MarkupCompile.cache
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar_MarkupCompile.lref
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Dicionario\Dicionario.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\AnuncioDetalhes.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\AnuncioTemplate.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\JanelaAnuncioDetalhes.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UCListaManutencao.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlManutencao.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\WindowSobre.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\TesteManutencao.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlDefinicoes.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlPaginaInicial.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlPerfil.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Interface\UserControlPesquisa.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Style\Styles.baml
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar.g.resources
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar.Properties.Resources.resources
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar.exe
+C:\Users\Tom\Desktop\autovar\WpfTestApp\obj\Debug\Autovar.pdb
